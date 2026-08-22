@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow==2.19.1
+opencv-python-headless
+pillow
+tqdm
+joblib
+matplotlib
+shap
